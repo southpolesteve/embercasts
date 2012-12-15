@@ -7,5 +7,4 @@ A proposed series of screencasts on ember.js screencasts. Submit an issue for an
 
 [Giles says you need some][1] so it must be true
 
-
 [1]: http://gilesbowkett.blogspot.com/2012/02/i-wouldnt-learn-ember-in-2012.html
